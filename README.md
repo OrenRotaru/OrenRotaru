@@ -1,4 +1,4 @@
-### Computer engineer working across embedded, systems, and web.
+### Computer engineering grad working across embedded, systems, and web.
 
 Graduating soon. Open to new-grad software roles — embedded/firmware, platform/infra, full-stack, most things adjacent. Happiest when I get to architect a real system end-to-end and watch it come together.
 
