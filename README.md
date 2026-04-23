@@ -15,7 +15,7 @@ Graduating soon. Open to new-grad software roles — embedded/firmware, platform
 
 **Some things I've built**
 - **A custom 8-bit microcontroller with its own ISA** on an FPGA — later pipelined with direct-mapped and set-associative instruction caches. Part of my [digital systems architecture labs](https://github.com/OrenRotaru/cme433-digital-systems-labs), which also cover carry-lookahead adders and OpenCL GPU work.
-- **[Real-time bus-stop crowd detection](https://github.com/jqjeevan/crowd-check)** — distributed CV pipeline: Raspberry Pi edge nodes running YOLO, streaming filtered frames over Zenoh to a GPU server, with a PySide6 operator dashboard and ClickHouse + Grafana analytics.
+- **[Real-time bus-stop crowd detection](https://github.com/jqjeevan/crowd-check)** — distributed CV pipeline: Raspberry Pi edge nodes running YOLO, streaming filtered frames over Zenoh to a GPU server, with a PySide6 operator dashboard and extra Grafana dashboard analytics.
 - **A home lab** running Docker on Linux — self-hosted media streaming, family photo storage, and game servers for friends. Love the tinkering.
 - **Automation and scrapers** like my [realtor.ca scraper CLI](https://github.com/OrenRotaru/realtor-ca-scraper-cli) for when a website doesn't give its data in a nice way when I want to look at it :).
 
