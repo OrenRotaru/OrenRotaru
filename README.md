@@ -1,6 +1,6 @@
 ### Computer engineering grad working across embedded, systems, and web.
 
-Graduating soon. Open to new-grad software roles — embedded/firmware, platform/infra, full-stack, most things adjacent. Happiest when I get to architect a real system end-to-end and watch it come together.
+Graduating soon. Open to new-grad software roles, system engineering roles, or automation/controls roles. Embedded/firmware, platform/infra, full-stack, most things adjacent. Happiest when I get to architect a real system end-to-end and watch it come together.
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=fff)
